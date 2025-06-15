@@ -8,7 +8,8 @@
 - ✨ Currently working on: **Laravel CRUD Website, Portofolio**
 
 ### Its me!!
-![Daka Agung Putra](https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg)
+<img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg" width=50% height=50%>
+
 ### 💡 Tech Stack
 ![Laravel](https://img.shields.io/badge/Laravel-F55247?style=for-the-badge&logo=laravel&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
