@@ -8,7 +8,7 @@
 - ✨ Currently working on: **Laravel CRUD Website, Portofolio**
 
 ### Its me!!
-<img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg" width=50% height=50%>
+<img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg" width=30% height=30%>
 
 ### 💡 Tech Stack
 
