@@ -1,4 +1,4 @@
-# Hi Guyss! I'm Daka Agung Putra 👋 
+# Hi Guyss! I'm Daka Agung Putra 🙋‍♂️
 
 ### 👨‍💻 About Me
 - 🏫 prospective student at **SMK METLAND SCHOOL CIBITUNG**
