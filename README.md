@@ -30,9 +30,9 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ### 👥 Let's Connect!
-- ![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 - 💌 [Email](dakaagungputra@gmail.com)
 - 🌍 [Portfolio](https://putrawebdev.github.io/portofoliodaka/)
+- 🌍 [Instagram](https://www.instagram.com/putraaactr_/)
 
 > “Great things are not done by impulse, but by a series of small things brought together.” - Vincent Van Gogh
 
