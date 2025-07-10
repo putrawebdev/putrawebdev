@@ -8,7 +8,7 @@
 - ✨ Currently working on: **Laravel CRUD Website, Portofolio**
 
 ### Its me!!
-<img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg" width="90%" height="90%" >
+<img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg" >
 
 ### 💼 Technical Skills
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
