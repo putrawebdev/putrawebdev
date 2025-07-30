@@ -1,8 +1,8 @@
 # Hi Guyss! I'm Daka Agung Putra 🙋‍♂️
 
 ### 👨‍💻 About Me
-- 🏫 prospective student at **SMK METLAND SCHOOL CIBITUNG**
-- 📚 Majoring in **Software Engineering**
+- 🏫 Student at **SMK METLAND SCHOOL CIBITUNG**
+- 📚 Majoring in **Pe**
 - 💎 Passionate about **Web Development**
 - 🔧 Tech Stack: **Laravel, Tailwind CSS, Bootstrap**
 - ✨ Currently working on: **Laravel CRUD Website, Portofolio**
