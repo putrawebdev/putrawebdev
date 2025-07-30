@@ -2,10 +2,10 @@
 
 ### 👨‍💻 About Me
 - 🏫 Student at **SMK METLAND SCHOOL CIBITUNG**
-- 📚 Majoring in **Pe**
+- 📚 Majoring in **Software Engineering**
 - 💎 Passionate about **Web Development**
 - 🔧 Tech Stack: **Laravel, Tailwind CSS, Bootstrap**
-- ✨ Currently working on: **Laravel CRUD Website, Portofolio**
+- ✨ Currently working on: **LaDang, Laravel CRUD Website, Portofolio**
 
 ### Its me!!
 <img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/Daka.jpg" >
