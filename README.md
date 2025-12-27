@@ -8,7 +8,7 @@
 - ✨ Currently working on: **LaDang, Laravel CRUD Website, Portofolio**
 
 ### Its me!!
-<img src="https://github.com/putrawebdev/putrawebdev-info/blob/c1b654580ce699a8c31109db97605321e326028e/WhatsApp Image 2025-12-27 at 21.20.51.jpeg" width="50%" >
+<img src="https://github.com/putrawebdev/putrawebdev/blob/main/Dakaa.jpeg" width="50%" >
 
 ### 💼 Technical Skills
 ![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)
