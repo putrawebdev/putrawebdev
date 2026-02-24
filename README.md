@@ -5,7 +5,7 @@
 - 📚 Majoring in **Software Engineering**
 - 💎 Passionate about **Web Development**
 - 🔧 Tech Stack: **Laravel, Tailwind CSS, Bootstrap**
-- ✨ Currently working on: **LaDang, Laravel CRUD Website, Portofolio**
+- ✨ Currently working on: **Extraavote, LaDang, Portofolio**
 
 ### Its me!!
 <img src="https://github.com/putrawebdev/putrawebdev/blob/main/Dakaa.jpeg" width="50%" >
